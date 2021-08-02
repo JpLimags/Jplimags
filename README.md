@@ -1,9 +1,5 @@
 ### Olaa !!! Eu sou João Pedro
 
-- 🔭 Executando projetos no desenvolvimento web. 
-- 🌱 Estudando python, com foco no desenvolvimento de IA.
-- 🤔 Na busca por um job.
-
  <div style= "display: inline_block">
   <a href="https://github.com/JpLimags">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JpLimags&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
