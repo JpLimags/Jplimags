@@ -1,6 +1,6 @@
  Olaa !!! Eu sou João Pedro
 
-- 🔭 Executando projetos no desenvolvimento web. 
+- 🔭 Executando projetos em desenvolvimento web. 
 - 🌱 Estudando python, com foco no desenvolvimento de IA.
 - 🤔 Na busca por um job.
  
