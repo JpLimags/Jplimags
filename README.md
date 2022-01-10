@@ -2,7 +2,7 @@
 
 - 🔭 Executando projetos em desenvolvimento web. 
 - 🌱 Estudando python, com foco no desenvolvimento de IA.
--  Estudante do programa da Dell Lead Jovem Cientista de Dados
+-  Estudante do programa Jovem Cientista de Dados da Dell Lead Fortaleza
 - 🤔 Na busca por um job.
  
 <div style= "display: inline_block">
