@@ -1,8 +1,8 @@
  Olaa !!! Eu sou João Pedro
 
 - 🔭 Executando projetos em desenvolvimento web. 
-- 🌱 Atualmente estudando Python e suas bibliotecas, com foco no desenvolvimento de I.A .
-- 📚 Estudante do programa Jovem Cientista de Dados da Dell Lead Fortaleza
+- 🌱 EStudando python e suas bibliotecas(Pandas, Matplotlib, Numpy...), com foco no desenvolvimento de IA.
+- 📚 Estudante de Ciência da computação-IFCE 
 - 💻 Desenvolvedor web em formação.
  
 <div style= "display: inline_block">
