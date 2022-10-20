@@ -1,6 +1,6 @@
  Olaa !!! Eu sou João Pedro
 
-- 🔭 Executando projetos no desenvolvimento de Inteligência artificial. 
+- 🔭 Desenvolvendo projetos de IA. 
 - 🌱 EStudando python e suas bibliotecas(Pandas, Matplotlib, Numpy...), com foco no desenvolvimento de IA.
 - 📚 Estudante de Ciência da computação-IFCE 
 - 💻 Desenvolvedor web em formação.
