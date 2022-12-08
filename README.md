@@ -16,7 +16,7 @@
 <div style= "display: inline_block">
   <img height = 178px src = https://github-readme-stats.vercel.app/api?username=JpLimags&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false<br/>
   <img height = 180px src = https://github-readme-streak-stats.herokuapp.com/?user=JpLimags&theme=tokyonight&hide_border=true<br/>
-  <img height = 178px src = https://github-readme-stats.vercel.app/api/top-langs/?username=JpLimags&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact
+  <img height = 179px src = https://github-readme-stats.vercel.app/api/top-langs/?username=JpLimags&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact
 </div>
  
 ---
