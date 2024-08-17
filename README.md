@@ -11,8 +11,8 @@
 # 📊 GitHub Stats:
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jplimags&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jplimags&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jplimags&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=jplimags&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" />
 </div>
 
 <div align="center">
